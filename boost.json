@@ -3,11 +3,15 @@
         "claude_code"
     ],
     "guidelines": true,
-    "herd_mcp": true,
+    "herd_mcp": false,
     "mcp": true,
     "nightwatch_mcp": false,
+    "packages": [
+        "nativephp/mobile"
+    ],
     "sail": false,
     "skills": [
-        "pest-testing"
+        "pest-testing",
+        "tailwindcss-development"
     ]
 }
